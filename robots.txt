@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vohmangoic.run-everywhere.com/sitemap.xml
